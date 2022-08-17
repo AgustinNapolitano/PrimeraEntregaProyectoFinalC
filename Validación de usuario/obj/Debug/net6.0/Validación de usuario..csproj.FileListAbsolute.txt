@@ -1,0 +1,15 @@
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\bin\Debug\net6.0\Validación de usuario..exe
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\bin\Debug\net6.0\Validación de usuario..deps.json
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\bin\Debug\net6.0\Validación de usuario..runtimeconfig.json
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\bin\Debug\net6.0\Validación de usuario..dll
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\bin\Debug\net6.0\Validación de usuario..pdb
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..csproj.AssemblyReference.cache
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..GeneratedMSBuildEditorConfig.editorconfig
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..AssemblyInfoInputs.cache
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..AssemblyInfo.cs
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..csproj.CoreCompileInputs.cache
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..dll
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\refint\Validación de usuario..dll
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..pdb
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\Validación de usuario..genruntimeconfig.cache
+D:\CODERHOUSE\C#\Validación de usuario\Validación de usuario\Validación de usuario\obj\Debug\net6.0\ref\Validación de usuario..dll
